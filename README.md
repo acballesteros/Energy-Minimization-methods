@@ -27,25 +27,6 @@ in a modern web browser.
 
 The application is implemented entirely in **HTML, CSS, JavaScript, and SVG** and runs directly in the browser.
 
-## GitHub Pages
-
-This repository can be published directly with GitHub Pages.
-
-Go to:
-
-```text
-Settings → Pages
-```
-
-and select:
-
-```text
-Deploy from a branch
-Branch: main
-Folder: / (root)
-```
-
-The interactive laboratory will then be available as a public website.
 
 ## Purpose
 
